@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033300663313",
+    "project_id": "ws-chat-fcm",
+    "storage_bucket": "ws-chat-fcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033300663313:android:1680d42ea02a6e9dd1a5b0",
+        "android_client_info": {
+          "package_name": "com.example.ws_chat_fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgP3CXDxCc6lI4gPYq8CB6NIk7_P-bAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
